@@ -1,1 +1,1 @@
-p "WEBCAMP".reverse
+puts "WEBCAMP".reverse

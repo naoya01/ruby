@@ -1,1 +1,1 @@
-p "WEBCAMP".length
+puts "WEBCAMP".length
